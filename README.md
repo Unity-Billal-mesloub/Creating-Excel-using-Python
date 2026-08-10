@@ -36,7 +36,7 @@ python create_excel.py
 
 | S.No | Assembly Parts | Standard Part | Revision Number | Status       | Part Number | Weight | Material | Quantity | Notes                             | Date       | Designed By | Detailed | Approved By | Custom Scale | Custom Paper Size | Orientation |
 | ---- | -------------- | ------------- | --------------- | ------------ | ----------- | ------ | -------- | -------- | --------------------------------- | ---------- | ----------- | -------- | ----------- | ------------ | ----------------- | ----------- |
-| 1    | Lever SA       | No            | 2               | Not Released | L1254       | 120    | SS316    | 1        | Remove Burns, Chamfer sharp edges | 22/10/2023 | James       | John     | Michael     | 0.5          | A1                |             |
+| 1    | Lever SA       | No            | 2               | Not Released | L1254       | 120    | SS316    | 1        | Remove Burns, Chamfer             | 22/10/2023 | James       | John     | Michael     | 0.5          | A1                |             |
 | ...  |                |               |                 |              |             |        |          |          |                                   |            |             |          |             |              |                   |             |
 
 ## 📘 Notes
